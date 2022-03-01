@@ -5,10 +5,10 @@ var redLeaf, redLeafImg;
 
 
 function preload(){
-  gardenImg = loadImage("images/garden.png");
-  rabbitImg = loadImage("images/rabbit.png");
-  orangeLeafImg = loadImage("images/orangeLeaf.png");
-  redLeafImg = loadImage("images/redLeaf.png");
+  gardenImg = loadImage("garden.png");
+  rabbitImg = loadImage("rabbit.png");
+  orangeLeafImg = loadImage("orangeLeaf.png");
+  redLeafImg = loadImage("redLeaf.png");
 }
 
 
